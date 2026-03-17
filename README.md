@@ -1,10 +1,11 @@
 ## Hi there 👋
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AhmetXDev&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetXDev&layout=compact&langs_count=8)
 <!--
 **AhmetXDev/AhmetXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
