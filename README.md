@@ -3,6 +3,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=AhmetXDev&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetXDev&layout=compact&langs_count=8) 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3)
 <!--
 **AhmetXDev/AhmetXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
