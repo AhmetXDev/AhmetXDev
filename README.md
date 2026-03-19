@@ -4,6 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetXDev&layout=compact&langs_count=8) 
 
+
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3)
