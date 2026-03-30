@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AhmetXDev&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetXDev&layout=donut&theme=tokyonight&hide_border=true)
 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
