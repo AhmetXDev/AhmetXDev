@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetXDev&layout=donut&theme=tokyonight&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=AhmetXDev&show_icons=true)
 
 
