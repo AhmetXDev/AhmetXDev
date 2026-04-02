@@ -3,14 +3,10 @@
 <!---->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&langs_count=8&theme=tokyonight)
 <!---->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetXDev&layout=donut&theme=tokyonight&hide_border=true)
 <!---->![Stats](https://github-readme-stats.vercel.app/api?username=AhmetXDev&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&langs_count=8&theme=tokyonight)
 
 
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3)
 <!--
 **AhmetXDev/AhmetXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
